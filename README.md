@@ -42,10 +42,10 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 
 ## 📸 Protótipo
 
-![Home](home.png.png)
-![Mapa](mapa.png.png)
-![Motorista](motorista.png.png)
-![Rotas](rota.png.png)
+![Home](home.png)
+![Mapa](mapa.png)
+![Motorista](motorista.png)
+![Rotas](rota.png)
 
 ---
 
