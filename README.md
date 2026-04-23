@@ -42,10 +42,10 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 
 ## 📸 Protótipo
 
-*(Adicione aqui imagens do Figma ou do app)*
-
-Exemplo:
-![Tela do App](link_da_imagem)
+![Home](home.png.png)
+![Mapa](mapa.png.png)
+![Motorista](motorista.png.png)
+![Rotas](rota.png.png)
 
 ---
 
