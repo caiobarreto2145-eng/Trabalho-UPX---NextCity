@@ -34,7 +34,7 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 ## 🛠️ Tecnologias Utilizadas
 
 - MIT App Inventor  
-- Figma  
+- CREAO
 - Ferramentas Low-Code  
 - Inteligência Artificial (apoio no desenvolvimento)  
 
@@ -42,11 +42,13 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 
 ## 📸 Protótipo
 
-![Home](home.png)
-![Mapa](mapa.png)
-![Motorista](motorista.png)
-![Rotas](rota.png)
+## Telas do Aplicativo
 
+### Home
+![Home](Home.png)
+
+### Mapa
+![Mapa](Mapa.png)
 ---
 
 ## 👥 Equipe
