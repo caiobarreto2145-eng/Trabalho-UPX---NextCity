@@ -52,7 +52,10 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 ---
 
 ## 🌐 Landing Page
-Abra o arquivo `index.html` para visualizar o site.
+
+Acesse a landing page do projeto:
+
+https://vantrack-app.preview.emergentagent.com/
 
 ---
 
