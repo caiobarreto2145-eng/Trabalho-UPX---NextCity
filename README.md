@@ -45,10 +45,10 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 ## Telas do Aplicativo
 
 ### Home
-![Telas](Home.png)
+![Telas](Tela0.png)
 
 ### Mapa
-(Mapa.png)
+![Telas](Tela.png)
 ---
 
 ## 🌐 Landing Page
