@@ -51,6 +51,11 @@ Melhorar a organização, segurança e previsibilidade no transporte de estudant
 ![Mapa](Mapa.png)
 ---
 
+## 🌐 Landing Page
+Abra o arquivo `index.html` para visualizar o site.
+
+---
+
 ## 👥 Equipe
 
 - Caio Nascimento  
